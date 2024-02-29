@@ -22,5 +22,5 @@ sudo chmod +x portIdentifier.sh
 Ejecutaremos el programa agregándole la IP en la que queramos hacer la enumeración, de la siguiente manera:
 
 ```
-./portIdentifier IP
+./portIdentifier.sh IP
 ```
