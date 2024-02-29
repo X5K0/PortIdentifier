@@ -11,7 +11,14 @@ portIdentifier es una herramienta ideal para identificar puertos abiertos de un 
 </table>
 
 
-## Usage
+## Uso
+
+Primero, asignaremos permisos al programa con:
+
+```bash
+sudo chmod +x portIdentifier.sh
+```
+
 Ejecutaremos el programa agregándole la IP en la que queramos hacer la enumeración, de la siguiente manera:
 
 ```
